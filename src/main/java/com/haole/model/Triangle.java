@@ -30,7 +30,6 @@ public class Triangle {
         return side1 + side2 + side3;
     }
 
-    // Optional: add getters for sides if needed
     public double getSide1() { return side1; }
     public double getSide2() { return side2; }
     public double getSide3() { return side3; }
