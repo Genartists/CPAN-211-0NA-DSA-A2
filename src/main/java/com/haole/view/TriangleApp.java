@@ -1,3 +1,14 @@
+/**********************************************
+ Assignment 2
+ Course: Data Structures & Algorithms
+ Last Name: Shah
+ First Name: Kresha
+ ID: N01715324
+ Section: CPAN-211-0NA
+ This assignment represents my own work in accordance with Humber Academic Policy.
+ Kresha
+ Date: June 16, 2025
+ **********************************************/
 package com.haole.view;
 
 import javafx.geometry.Insets;
