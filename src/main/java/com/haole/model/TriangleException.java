@@ -1,4 +1,4 @@
-package model;
+package com.haole.model;
 
 public class TriangleException extends Exception {
     public TriangleException(String message) {

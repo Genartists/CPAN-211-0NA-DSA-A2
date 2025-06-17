@@ -1,4 +1,4 @@
-package model;
+package com.haole.model;
 
 public class Triangle {
     private final double side1, side2, side3;
