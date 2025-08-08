@@ -1,14 +1,3 @@
-/**********************************************
- Assignment #2
- Course: Data Structures & Algorithms
- Last Name: Le
- First Name: Hao
- ID: N01605830
- Section: CPAN-211-0NA
- This assignment represents my own work in accordance with Humber Academic Policy.
- Hao
- Date: June 16, 2025
- **********************************************/
 package com.haole.util;
 
 import com.haole.model.Triangle;
